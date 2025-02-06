@@ -1,6 +1,6 @@
 ﻿namespace Actions.Utils;
 
-public class Log
+public static class Log
 {
     // https://docs.github.com/ja/enterprise-cloud@latest/actions/writing-workflows/choosing-what-your-workflow-does/workflow-commands-for-github-actions
 
